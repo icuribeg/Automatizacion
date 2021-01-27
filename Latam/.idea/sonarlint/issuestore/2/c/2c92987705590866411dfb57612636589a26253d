@@ -1,14 +1,14 @@
 
-^
-java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(”ñ„ıüÿÿÿÿ8ãéÄ¼ï.
-^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(‚˜ä˜ÿÿÿÿÿ8ãéÄ¼ï.
-Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(²ãı£8ãéÄ¼ï.
 Y
 java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÛşÊÚ8ãéÄ¼ï.
 ^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ß§òÿÿÿÿÿ8ãéÄ¼ï.
-^
 java:S3252
 "<Use static access with "org.openqa.selenium.By" for "xpath".(”§¬úøÿÿÿÿ8ãéÄ¼ï.
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(‚˜ä˜ÿÿÿÿÿ8ãéÄ¼ï.
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ß§òÿÿÿÿÿ8ãéÄ¼ï.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(²ãı£8ãéÄ¼ï.
+^
+java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(”ñ„ıüÿÿÿÿ8İğà«ò.

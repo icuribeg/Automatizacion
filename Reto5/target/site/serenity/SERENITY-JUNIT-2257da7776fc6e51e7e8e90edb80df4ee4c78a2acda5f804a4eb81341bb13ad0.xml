@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Automatizacion de la pagina utest.com" skipped="0" tests="1" time="66.54" timestamp="2021-01-27 04:59:27"><testcase name="Realizar el registro en la pagina utest.com"><error message="Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'CHMEPPF0I6JT9', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0I6JT9', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0I6JT9', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certification.reto5.stepdefinitions.DemoUtestStepDefintions.ellaVerificaQueElRegistroSeaExitoso(DemoUtestStepDefintions.java:43)&#13;
+✽.ella verifica que el registro sea exitoso Welcome to the world's largest community of freelance software testers!(src/test/resources/features/automationUtestSite.feature:15)&#13;
+</system-err></testcase></testsuite>
