@@ -21,3 +21,5 @@ Psrc/main/java/co/com/choucair/certification/reto5/userinterface/CheckInPage.jav
 ^src/test/java/co/com/choucair/certification/reto5/stepdefinitions/DemoUtestStepDefintions.java,7\9\7985f4fd49530d41cb61e207639926d9c31b225f
 t
 Dsrc/main/java/co/com/choucair/certification/reto5/tasks/CheckIn.java,f\a\fa6a66221a80f009044b24cf7337a20b7eeb5f98
+w
+Gsrc/main/java/co/com/choucair/certification/reto5/questions/Answer.java,0\4\041f9ca8d44a1677a92af11fc51d5cc2b684b412

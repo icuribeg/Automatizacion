@@ -1,38 +1,68 @@
 
 Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(§³ãĞ8ƒè™„ô.
-[
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(Š¥îÊÿÿÿÿÿ8ƒè™„ô.
-^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(”×˜ıÿÿÿÿ8ƒè™„ô.
-[
-java:S3252
-"9Use static access with "org.openqa.selenium.By" for "id".(ò£óşÿÿÿÿ8ƒè™„ô.
+java:S3252)"<Use static access with "org.openqa.selenium.By" for "xpath".(Ø¹­¢8¥ÅÔ®ô.
+X
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(‹È—Ü8¥ÅÔ®ô.
 \
 java:S1118":Add a private constructor to hide the implicit public one.(µ”µûÿÿÿÿ8‚ÛŸıó.
-[
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(õºŞŒøÿÿÿÿ8ƒè™„ô.
-[
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(˜¾³øÿÿÿÿ8ƒè™„ô.
-Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Æ½‘Œ8ƒè™„ô.
-^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¿å¹ıÿÿÿÿ8ƒè™„ô.
 V
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(…¯¼à8ƒè™„ô.
+java:S3252&"9Use static access with "org.openqa.selenium.By" for "id".(¿ı©8¥ÅÔ®ô.
 ^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ºÂÇŞùÿÿÿÿ8ƒè™„ô.
-[
-java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(Ë½¯êşÿÿÿÿ8ƒè™„ô.
+java:S3252 "<Use static access with "org.openqa.selenium.By" for "xpath".(•“•³şÿÿÿÿ8¥ÅÔ®ô.
 ^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(³ ©†øÿÿÿÿ8ƒè™„ô.
+java:S3252#"<Use static access with "org.openqa.selenium.By" for "xpath".(ö…î™ıÿÿÿÿ8¥ÅÔ®ô.
+X
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(¤şø¢8¥ÅÔ®ô.
 Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ØÃÂ˜8ƒè™„ô.
-[
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(ÊĞÁÌşÿÿÿÿ8ƒè™„ô.
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ØÃÂ˜8¥ÅÔ®ô.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Æ½‘Œ8¥ÅÔ®ô.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "SIGUIENTE" 3 times.(Æ½‘Œ8Éå³®ô.
+W
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(äĞ›8¥ÅÔ®ô.
+n
+java:S1192"RDefine a constant instead of duplicating this literal "Selecciona SPOKEN" 4 times.(äĞ›8÷ß§­ô.
 ^
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ô ú†üÿÿÿÿ8ƒè™„ô.
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(†ˆ¡íøÿÿÿÿ8¥ÅÔ®ô.
+[
+java:S3252'"9Use static access with "org.openqa.selenium.By" for "id".(Š¥îÊÿÿÿÿÿ8¥ÅÔ®ô.
+[
+java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(Ë½¯êşÿÿÿÿ8¥ÅÔ®ô.
+X
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(Ò¶µ¶8¥ÅÔ®ô.
+[
+java:S3252
+"9Use static access with "org.openqa.selenium.By" for "id".(ò£óşÿÿÿÿ8¥ÅÔ®ô.
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(˜¾³øÿÿÿÿ8¥ÅÔ®ô.
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(ÊĞÁÌşÿÿÿÿ8¥ÅÔ®ô.
+]
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(ñ†¬ûÿÿÿÿ8¥ÅÔ®ô.
+]
+java:S3252"";Use static access with "org.openqa.selenium.By" for "name".(…áòÿÿÿÿÿ8¥ÅÔ®ô.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¹öñ€8¥ÅÔ®ô.
 V
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(¿ı©8ƒè™„ô.
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(…¯¼à8¥ÅÔ®ô.
+V
+java:S3252,"9Use static access with "org.openqa.selenium.By" for "id".(€—ÑÚ8¥ÅÔ®ô.
 Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Ç§à8ƒè™„ô.
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Ç§à8¥ÅÔ®ô.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(‰ôÛÇ8¥ÅÔ®ô.
+^
+java:S3252."<Use static access with "org.openqa.selenium.By" for "xpath".(“¢Âİùÿÿÿÿ8ï£Û®ô.
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(õºŞŒøÿÿÿÿ8¥ÅÔ®ô.
+X
+java:S3252";Use static access with "org.openqa.selenium.By" for "name".(íîÛä8¥ÅÔ®ô.
+^
+java:S3252%"<Use static access with "org.openqa.selenium.By" for "xpath".(ô ú†üÿÿÿÿ8¥ÅÔ®ô.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ìî•Ë8¥ÅÔ®ô.
+^
+java:S3252*"<Use static access with "org.openqa.selenium.By" for "xpath".(˜˜úÌüÿÿÿÿ8¥ÅÔ®ô.
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÆÈìÃûÿÿÿÿ8¥ÅÔ®ô.
