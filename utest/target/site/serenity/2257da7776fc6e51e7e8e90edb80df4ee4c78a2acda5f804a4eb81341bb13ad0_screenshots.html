@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Demo Project using Serenity and Cucumber</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="1293abf741e8f58a9bc8c0a50788f52d6ce8b55178172d8ea2d37d057b925c96.html">Automatizacion De La Pagina Utest.Com</a></span>
+                > <span class="truncate-60"><a
+                    href="2257da7776fc6e51e7e8e90edb80df4ee4c78a2acda5f804a4eb81341bb13ad0.html">Realizar el registro en la pagina utest.com </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 28-01-2021 12:15</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Automatizacion De La Pagina Utest.Com </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                yo como usuario, quiero realizar el registro en la página utest.com
+a traves del diligenciamiento del formulario
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;" href="30514c33454b8ef6c925e0aeb8b39b85b7a9fd375e274cdc3be9e76305c6fa1c.html">Historia
+                                    (tag)</a>
+                                </span>
+                            </p>
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;" href="3b647098d7d1f98c7fead3c38dba094af5c9c8af4ab37b7b04de7da636c6d139.html">Escenario1
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
+                            <span class="test-case-title">
+                                <span class="error-color">Realizar el registro en la pagina utest.com
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">Dado que Isabel quiere acceder a la Web utest.com<br>Cuando ella realiza el registro en la página<br>Entonces ella verifica que el registro sea exitoso Welcome to the world's largest community of freelance software testers!</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+                        <div class="panel-heading title="Assertion error: Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'CHMEPPF0I6JT9', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'Driver info: driver.version: unknown">
+                            Assertion error: Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)Build in...
+                        </div>
+                <div><!-- Stack trace -->
+                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                            data-target="#stacktraceModal-overall">
+                        View details
+                    </button>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="stacktraceModal-overall" tabindex="-1" role="dialog"
+                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                </button>
+                                <h4 class="modal-title" id="stacktraceModalLabel">
+                                    java.lang.AssertionError
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                    <h5>
+                                        <pre>Expected condition failed: waiting for By.xpath: //h1[contains(text(),'Welcome to the world's largest community of freelance software testers!')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)<br>Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'<br>System info: host: 'CHMEPPF0I6JT9', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'<br>Driver info: driver.version: unknown</pre>
+                                    </h5>
+                                    co.com.choucair.certification.utest.stepdefinitions.UtestSiteStepDefintions.ellaVerificaQueElRegistroSeaExitoso(UtestSiteStepDefintions.java
+                                    :42) <br>
+                                    ✽.ella verifica que el registro sea exitoso Welcome to the world's largest community of freelance software testers!(src/test/resources/features/automationUtestSite.feature
+                                    :15) <br>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource4456408397274230252.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="812195089107069d226af878fe85b59749f96e27466dedf377a654f5547ea5ea.png" title="Dado que Isabel quiere acceder a la Web utest.com" width="1366"/>
+                <img src="812195089107069d226af878fe85b59749f96e27466dedf377a654f5547ea5ea.png" title="Isabel opens the Utest page" width="1366"/>
+                <img src="ff624003d45a0cc3a25939837a5d0fd2088056631826698a590a8ef4f8f49588.png" title="Cuando ella realiza el registro en la p&aacute;gina
+| Isabel | Uribe | icuribe1@gmail.com | June | 2 | 1990 | Spanish | Windows | 10 | Spanish | Apple | iPhone 7 | iOS13.3 | *Isabel2Uribe | *Isabel2Uribe |" width="1366"/>
+                <img src="10efe3cbea95564436367881204684a43fe8388a6a32b8d8c4667364c9c3ecc1.png" title="Isabel clicks on click boton de registro" width="1366"/>
+                <img src="19a714eaf115819b28014d9fee19c14d80e52dded4ca41fe37e4151498f78e4d.png" title="Isabel enters 'Isabel' into ingresar el nombre" width="1366"/>
+                <img src="2381d4d6799a1faa0ccf27e36cd2343935ac507b7c0941f39b3dc314be927354.png" title="Isabel enters 'Uribe' into ingresar el apellido" width="1366"/>
+                <img src="67637ad0b91a4eba2e1a41ab7829260be8a1d04c514df6b412c18b81d5f2a63d.png" title="Isabel enters 'icuribe1@gmail.com' into ingresar el email" width="1366"/>
+                <img src="1b94c0a80f4159172767176f0657072187ac7c691de96d5186bf36e50dc43b91.png" title="Isabel select June on ingresar el mes de cumplea&ntilde;os" width="1366"/>
+                <img src="a03a0eff84ed320c50249110b2441ca6e4e7047cfcf26d7e5a41e2fdbadc3980.png" title="Isabel select 2 on Ingresar el dia cumplea&ntilde;os" width="1366"/>
+                <img src="a18d1dcb5b60c4fa5dbc13ea4d366caf9f8af344c1701dd7d926762fe6b050ba.png" title="Isabel select 1990 on ingresar el a&ntilde;o de cumplea&ntilde;os" width="1366"/>
+                <img src="d768f3d6b98d17081e2e633541a6e58c86179409f1c6eeb9da3cdc469f392311.png" title="Isabel clicks on ingresar idioma" width="1366"/>
+                <img src="beeb416f22474a2c546c2ace28fc6e2abccc125f6406f313c41eba9c1dabd1a4.png" title="Isabel enters 'Spanish' into ingresar idioma" width="1366"/>
+                <img src="cbe4f24b85f205b32d1998c609d53bff7ecb00352e5eed321d31d16da12c40a2.png" title="Isabel clicks on click boton de CONTINUAR" width="1366"/>
+                <img src="4603204dede598b6b27ba36b47355db195630d1a806de3ba3a495860ce9caa8b.png" title="Isabel clicks on ingresar computer" width="1366"/>
+                <img src="dec376ffe40660f78d16d1a0c88ca7fadd108bf2aac91aada57a5acb6d5fdd16.png" title="Isabel clicks on click boton de CONTINUAR" width="1366"/>
+                <img src="9c740232cdf43e6f8844d5a054f5e58aa543404a199a2e95e8f15f787448ddb9.png" title="Isabel clicks on ingresar computer" width="1366"/>
+                <img src="b2ba42bdd65ffee9decd4b708b06dc7c22aa2a52b5920249ac8ff7fdf268e0ce.png" title="Isabel enters 'Windows' into ingresar computer" width="1366"/>
+                <img src="1dfa72e51b15bc8dbc484ea0f42f9441eb90634609a41655df04ebee7e23d044.png" title="Isabel clicks on ingresar version" width="1366"/>
+                <img src="5e0d3eb3bf1f3b9048f733f16a538079ef937cd701d98f6731e07dd4aca53457.png" title="Isabel enters '10' into ingresar version" width="1366"/>
+                <img src="1f96e377f64d4365993a73219029ce1f47538e1289385e41d02339f10610bc37.png" title="Isabel clicks on ingresar lenguaje" width="1366"/>
+                <img src="2080f1c816dbdd05e095d439bdc24ea0a645180ab8dfd85dc3fcb03ca9b4ecd4.png" title="Isabel enters 'Spanish' into ingresar lenguaje" width="1366"/>
+                <img src="7ac56e23b7d3a87f31aea67ae60f9646ecb20e42ced0b154e5217c428cfd409e.png" title="Isabel clicks on ingresar movil " width="1366"/>
+                <img src="cf1f32134a8b7de86f15363d6db63063ba5f419c719c0d4eeddb30776f9d350a.png" title="Isabel enters 'Apple' into ingresar movil " width="1366"/>
+                <img src="b332caf67651f320638903fbe6cabb2f5c7b4531432b49f807e5e315efda1242.png" title="Isabel clicks on ingresar modelo " width="1366"/>
+                <img src="fda262cd8d745385c268a6012e18c3eeedd71384e5026956444f3e819550338a.png" title="Isabel enters 'iPhone 7' into ingresar modelo " width="1366"/>
+                <img src="56f3b3d2374a922948ee3170d51d7ad8cbd79dc3117bd40c20f8443c4ed09ada.png" title="Isabel clicks on ingresar system " width="1366"/>
+                <img src="89358a99bc510bb28acaf1a8029fc40005618634f9ee511bc883f7c30bcdc211.png" title="Isabel enters 'iOS13.3' into ingresar system " width="1366"/>
+                <img src="46946a31f743128b5117f492e2b3c6a7a3628cf87a7ad561cc1e3de5589589b0.png" title="Isabel clicks on click boton de CONTINUAR" width="1366"/>
+                <img src="c962d4518a85866c36934b4a85c9aba9e705f9357b34ebde9de869434d693366.png" title="Isabel enters '*Isabel2Uribe' into ingresar pass " width="1366"/>
+                <img src="49586abc15410a5cfe9e568fd25d2cb2131dc59087f9d166473d49d203b2af1e.png" title="Isabel enters '*Isabel2Uribe' into ingresar confirmar pass " width="1366"/>
+                <img src="0f297e7946718846850c9edbf112003a52ff7f7b394ef5c6155cfa1564f22bd2.png" title="Isabel clicks on ingresar confirmar pass " width="1366"/>
+                <img src="d3e15f8f7e04564a027b6aa0e1fcda261cae1cc7c5439c5981821a4b6b99712c.png" title="Isabel clicks on ingresar confirmar pass " width="1366"/>
+                <img src="dbe360d7ffdac264a9bae13515ac1537a159b55fd3df704b8d1868e04821690b.png" title="Isabel clicks on click boton de CONTINUAR" width="1366"/>
+                <img src="a6296de8a84ce8e07d97e0c1d0d7a5920fdd79a06212e196ea7fcc71975b50f8.png" title="Then answer: <span class='error-color'>ERROR</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.9.9</span>
+</div>
+</body>
+</html>
